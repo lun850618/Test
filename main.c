@@ -23,7 +23,7 @@ int main()
         }
         printf("\n");
     }
-    
+    printf("1211213232321");
     system("pause");
     return 0;
 }
